@@ -25,3 +25,13 @@ npm i
 ### Run the Application
 
 ```npm start```
+
+
+### Primary Technologies used:
+
+* HTML
+* bootstrap
+* Node.js
+* Ejs
+* Mongoose/MongoDB
+* Express.js

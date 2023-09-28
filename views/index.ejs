@@ -14,16 +14,22 @@
   <body>
     <div class="container">
       <h1>Url Shrinker</h1>
-      <form action="/shortUrls" method="POST" class="my-4 form-inline">
-        <input
-          type="url"
-          name="fullUrl"
-          id="fullUrl"
-          placeholder="Enter Url"
-          required
-          class="form-control mr-2"
-        />
-        <button type="submit" class="btn btn-success">Shrink</button>
+      <form action="/shortUrls" method="POST" class="my-4">
+        <div class="row">
+          <div class="col-md-8">
+            <input
+              type="url"
+              name="fullUrl"
+              id="fullUrl"
+              placeholder="Enter Url"
+              required
+              class="form-control"
+            />
+          </div>
+          <div class="col-md-4">
+            <button type="submit" class="btn btn-success btn-block">Shrink</button>
+          </div>
+        </div>
       </form>
       <table class="table table-striped table-responsive">
         <thead>
