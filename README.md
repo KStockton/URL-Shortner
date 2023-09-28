@@ -1,6 +1,6 @@
 # Url Shortner
 
-<img width="1680" alt="travel app" src="https://user-images.githubusercontent.com/34406483/219982779-c6d8f417-5169-4839-b264-b92936eb12f1.png">
+<img width="992" alt="Screenshot 2023-09-28 at 11 04 01 AM" src="https://github.com/KStockton/probable-waffle/assets/34406483/b0067205-f1a7-46ef-8418-845b8d2a871d">
 
 ## Introduction
 
