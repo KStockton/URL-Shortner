@@ -1,4 +1,4 @@
-# Url Shortner
+# URL Shortner
 
 <img width="982" alt="Screenshot 2023-09-28 at 11 09 25 AM" src="https://github.com/KStockton/probable-waffle/assets/34406483/b73ec72d-a2d3-4c5d-8a36-d433982d4e33">
 
@@ -13,10 +13,10 @@ To get started with the Url Shortner App, follow these steps:
 
 ### Clone the Repository
 
-You can clone the app's repository from [https://github.com/KStockton/probable-waffle.git](https://github.com/KStockton/probable-waffle.git). Use the following command to clone the repository to your local machine:
+You can clone the app's repository from [here](https://github.com/KStockton/URL-Shortner). Use the following command to clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/KStockton/probable-waffle.git
+git clone https://github.com/KStockton/URL-Shortner
 ```
 
 ### Install Dependencies
