@@ -5,11 +5,11 @@
 
 ## Introduction
 
-The Url Shortner is a simple web application that provides a delightful waffle-themed experience. Whether you're a waffle lover or just looking for a fun and interactive web app, Probable Waffle has something for you.
+The URL Shortener is a simple web application that provides a delightful experience. Whether you're a fan or just looking for a fun and interactive web app, the URL Shortener has something for you.
 
 ## Getting Started
 
-To get started with the Url Shortner App, follow these steps:
+To get started with the U SRLhortner App, follow these steps:
 
 ### Clone the Repository
 
