@@ -9,7 +9,7 @@ The URL Shortener is a simple web application that provides a delightful experie
 
 ## Getting Started
 
-To get started with the U SRLhortner App, follow these steps:
+To get started with the URL Shortner App, follow these steps:
 
 ### Clone the Repository
 
